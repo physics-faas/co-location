@@ -1,4 +1,6 @@
+LICENSE.txt
 README.md
+setup.cfg
 setup.py
 co_location/__init__.py
 co_location/server.py

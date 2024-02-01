@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     name='co_location',
     packages=find_packages(),
-    version='1.5.3',
+    version='1.5.4',
     description='Physcis project. Kubernertes Collocation library',
     author='Ainhoa Azqueta-Alzúaz',
     author_email='aazqueta@fi.upm.es',
@@ -13,5 +13,5 @@ setup(
     tests_require=['pytest==4.4.1'],
     test_suite='tests',
     python_requires='>=3.7',
-    download_url='https://github.com/physics-faas/co-location/archive/refs/tags/v1.5.3.tar.gz'
+    download_url='https://github.com/physics-faas/co-location/archive/refs/tags/v.1.5.4.tar.gz'
 )
