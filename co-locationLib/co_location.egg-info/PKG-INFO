@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: co-location
+Version: 1.5.3
+Summary: Physcis project. Kubernertes Collocation library
+Author: Ainhoa Azqueta-Alzúaz
+Author-email: aazqueta@fi.upm.es
+License: MIT
+Requires-Python: >=3.7
