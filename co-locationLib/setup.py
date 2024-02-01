@@ -13,5 +13,5 @@ setup(
     tests_require=['pytest==4.4.1'],
     test_suite='tests',
     python_requires='>=3.7',
-    download_url=''
+    download_url='https://github.com/physics-faas/co-location/archive/refs/tags/v1.5.3.tar.gz'
 )
